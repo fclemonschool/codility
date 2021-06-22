@@ -1,3 +1,3 @@
-# codility
+# Codility
 
 Codility Sample
